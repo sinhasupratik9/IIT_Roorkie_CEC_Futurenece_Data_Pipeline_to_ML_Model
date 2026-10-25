@@ -1,0 +1,4 @@
+{
+  "python.analysis.extraPaths": ["./include"],
+  "python-envs.defaultEnvManager": "ms-python.python:system"
+}
